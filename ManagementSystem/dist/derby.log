@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat May 19 15:58:38 PHT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0163-7768-59b8-0000008f1ff8 
+on database directory /home/michael/NetBeansProjects/ManagementSystem/dist/management with class loader sun.misc.Launcher$AppClassLoader@52e922 
+Loaded from file:/home/michael/NetBeansProjects/ManagementSystem/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=/home/michael/NetBeansProjects/ManagementSystem/dist
+os.name=Linux
+os.arch=i386
+os.version=4.15.0-20-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 19 15:58:49 PHT 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Sat May 19 15:58:50 PHT 2018:
+Shutting down instance a816c00e-0163-7768-59b8-0000008f1ff8 on database directory /home/michael/NetBeansProjects/ManagementSystem/dist/management with class loader sun.misc.Launcher$AppClassLoader@52e922 
+----------------------------------------------------------------
